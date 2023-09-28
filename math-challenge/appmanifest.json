@@ -1,0 +1,10 @@
+{
+	"name": "math challenge",
+	"short_name": "math challenge",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": []
+}
